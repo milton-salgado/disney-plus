@@ -22,7 +22,7 @@ Uma "landing page" da plataforma de streaming "Disney Plus".
 ## 📋 Descrição
 
 Este é um projeto de uma "landing page" da plataforma de streaming "Disney Plus".
-Esse projeto foi o desafio 02 do curso "Vai na Web", e tinha como proposta reforçar o conteúdo de semântica com HTML e aplicar uma melhor estilização com CSS, com espaçamentos internos e externos (padding e margin). O modelo a ser seguido foi apresentado na plataforma de design "Figma". Após aprendermos o conteúdo de flexbox, decidi atualizar o projeto utilizando esse conceito (segunda versão).
+Esse projeto foi o desafio 02 do curso "Vai na Web", e tinha como proposta reforçar o conteúdo de semântica com HTML e aplicar uma melhor estilização com CSS, com espaçamentos internos e externos (padding e margin). O modelo a ser seguido foi apresentado na plataforma de design "Figma". Após aprendermos o conteúdo de flexbox, decidi atualizar o projeto utilizando esse conceito (2.0).
 
 ### 🚀 Funcionalidades
 
@@ -73,14 +73,14 @@ Outras versões: 1.0 (primeira versão)
 
 Ao fazer esse projeto, aprendi a:
 
-- Colocar ícones, cursores e fontes personalizados em uma página HTML (1.0)
-- Estilizar imagens com CSS (1.0) 
-- Limpar as propriedades padrão do CSS com o "CSS reset" (1.0) 
-- Aplicar espaçamentos com padding e margin no CSS (1.0) 
-- Atualizar um projeto web com flexbox (2.0)
-- Consolidar a divisão de uma página semântica com HTML (1.0) 
-- Construir uma página web baseada em um design no "Figma" (1.0) 
-- Criar uma "landing page" semântica com HTML (1.0) 
+- Colocar ícones, cursores e fontes personalizados em uma página HTML (primeira versão)
+- Estilizar imagens com CSS (primeira versão) 
+- Limpar as propriedades padrão do CSS com o "CSS reset" (primeira versão) 
+- Aplicar espaçamentos com padding e margin no CSS (primeira versão) 
+- Atualizar um projeto web com flexbox (segunda versão)
+- Consolidar a divisão de uma página semântica com HTML (primeira versão) 
+- Construir uma página web baseada em um design no "Figma" (primeira versão) 
+- Criar uma "landing page" semântica com HTML (primeira versão) 
 
 ## ✒️ Autores
 
