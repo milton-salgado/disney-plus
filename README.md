@@ -22,7 +22,7 @@ Uma "landing page" da plataforma de streaming "Disney Plus".
 ## 📋 Descrição
 
 Este é um projeto de uma "landing page" da plataforma de streaming "Disney Plus".
-Esse projeto foi o desafio 02 do curso "Vai na Web", e tinha como proposta reforçar o conteúdo de semântica com HTML e aplicar uma melhor estilização com CSS, com espaçamentos internos e externos (padding e margin). O modelo a ser seguido foi apresentado na plataforma de design "Figma". Após aprendermos o conteúdo de flexbox, decidi atualizar o projeto utilizando esse conceito (2.0).
+Esse projeto foi o desafio 02 do módulo 01 do curso de front-end do "Vai na Web", e tinha como proposta reforçar o conteúdo de semântica com HTML e aplicar uma melhor estilização com CSS, com espaçamentos internos e externos (padding e margin). O modelo a ser seguido foi apresentado na plataforma de design "Figma". Após aprendermos o conteúdo de flexbox, decidi atualizar o projeto utilizando esse conceito (2.0).
 
 ### 🚀 Funcionalidades
 
@@ -39,7 +39,9 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 📸 Prévia
 
-![Desktop Design](./img/desktop-index.png)
+<div align="center">
+  <img src="./img/desktop-index.png">
+</div>
 
 ## ⚙️ Construção
 
